@@ -1,0 +1,6 @@
+Hello! This is your personalized file.
+Fun fact: The number 42 is often called 'the anser to life'
+Third line: Keep going, you're doing great with Python!
+you've made it this far. Keep up the good work!
+Adding some extra numbers: 56 and 101.
+Final Message: Never Stop Learning!
